@@ -77,7 +77,7 @@
             loader.style.display = 'block';
             
             if (!iframe.src) {
-                iframe.src = 'http://localhost:5173/';
+                iframe.src = 'https://chat-widget.rexx.cloud/index.html';
                 iframe.onload = function() {
                     loader.style.display = 'none';
                     iframe.style.display = 'block';
