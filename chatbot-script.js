@@ -10,8 +10,8 @@
             position: fixed;
             bottom: 20px;
             right: 20px;
-            width: 60px;
-            height: 60px;
+            width: 70px;
+            height: 70px;
             background: transparent;
             border: none;
             cursor: pointer;
