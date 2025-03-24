@@ -22,7 +22,7 @@
             bottom: 80px;
             right: 20px;
             width: 400px;
-            height: 550px;
+            height:600px;
             z-index: 99999;
             display: none;
             border-radius: 10px;
