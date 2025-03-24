@@ -21,8 +21,8 @@
             position: fixed;
             bottom: 80px;
             right: 20px;
-            width: 350px;
-            height: 500px;
+            width: 400px;
+            height: 600px;
             z-index: 99999;
             display: none;
             border-radius: 10px;
