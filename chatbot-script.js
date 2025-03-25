@@ -21,7 +21,7 @@
             position: fixed;
             bottom: 90px;
             right: 20px;
-            width: 3800px;
+            width: 380px;
             height:500px;
             z-index: 99999;
             display: none;
