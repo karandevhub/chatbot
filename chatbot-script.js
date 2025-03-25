@@ -10,8 +10,8 @@
             position: fixed;
             bottom: 20px;
             right: 20px;
-            width: 72px;
-            height: 65px;
+            width: 70px;
+            height: 63px;
             background: transparent;
             border: none;
             cursor: pointer;
@@ -21,8 +21,8 @@
             position: fixed;
             bottom: 90px;
             right: 20px;
-            width: 400px;
-            height:550px;
+            width: 3800px;
+            height:500px;
             z-index: 99999;
             display: none;
             border-radius: 10px;
