@@ -10,8 +10,8 @@
             position: fixed;
             bottom: 20px;
             right: 20px;
-            width: 70px;
-            height: 70px;
+            width: 72px;
+            height: 65px;
             background: transparent;
             border: none;
             cursor: pointer;
@@ -19,10 +19,10 @@
         }
         #chat-container {
             position: fixed;
-            bottom: 80px;
+            bottom: 90px;
             right: 20px;
             width: 400px;
-            height:600px;
+            height:550px;
             z-index: 99999;
             display: none;
             border-radius: 10px;
