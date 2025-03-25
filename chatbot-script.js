@@ -54,7 +54,7 @@
     // Create button
     const button = document.createElement('button');
     button.id = 'chat-button-container';
-    button.innerHTML = '<img src="https://karandevhub.github.io/chatbot/robot.png" alt="Chat Icon" style="width: 100%; height: 100%;">';
+    button.innerHTML = '<img src="https://karandevhub.github.io/chatbot/circle.png" alt="Chat Icon" style="width: 100%; height: 100%;">';
     document.body.appendChild(button);
 
 
